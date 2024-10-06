@@ -1,0 +1,26 @@
+# IDE
+*.user
+.idea
+*.cbp
+
+# Cmake
+CMakeCache.txt
+CMakeFiles/
+cmake-build*
+cmake_install.cmake
+Makefile
+
+# vcpkg
+vcpkg_installed/
+vcpkg-manifest-install.log
+
+# OS
+.DS_Store
+
+# python
+**/__pycache__/
+.pytest_cache/
+
+# integration tests data
+integration-tests/data/basov.pdf
+integration-tests/data/buggati.jpg

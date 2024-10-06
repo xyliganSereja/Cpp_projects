@@ -1,0 +1,6 @@
+# ninja log v5
+2	4318	1683830677500392592	CMakeFiles/tests.dir/test/performance-test.cpp.o	fc05eb4442a0d0dd
+0	5258	1683830678437059282	CMakeFiles/tests.dir/test/cow-test.cpp.o	2f9ed0051891e867
+4	5392	1683830678573725952	CMakeFiles/tests.dir/test/vector-test.cpp.o	166a0461d91d862b
+3	5788	1683830678970392629	CMakeFiles/tests.dir/test/small-object-test.cpp.o	1afb31e75ec327f5
+5788	6062	1683830679240392635	tests	21f816f7c5a8f381

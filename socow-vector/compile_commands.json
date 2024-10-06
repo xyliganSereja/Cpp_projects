@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/build",
+  "command": "/sbin/c++  -I/home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/src -I/home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/test -isystem /home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wno-sign-compare -Wold-style-cast -Wextra-semi -Woverloaded-virtual -Wzero-as-null-pointer-constant -Wpointer-arith -Wvla -Wshadow=compatible-local -Wduplicated-branches -Wduplicated-cond -Wnull-dereference -Walloc-zero -Wno-array-bounds -Wno-maybe-uninitialized -o CMakeFiles/tests.dir/test/cow-test.cpp.o -c /home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/test/cow-test.cpp",
+  "file": "/home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/test/cow-test.cpp",
+  "output": "CMakeFiles/tests.dir/test/cow-test.cpp.o"
+},
+{
+  "directory": "/home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/build",
+  "command": "/sbin/c++  -I/home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/src -I/home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/test -isystem /home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wno-sign-compare -Wold-style-cast -Wextra-semi -Woverloaded-virtual -Wzero-as-null-pointer-constant -Wpointer-arith -Wvla -Wshadow=compatible-local -Wduplicated-branches -Wduplicated-cond -Wnull-dereference -Walloc-zero -Wno-array-bounds -Wno-maybe-uninitialized -o CMakeFiles/tests.dir/test/performance-test.cpp.o -c /home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/test/performance-test.cpp",
+  "file": "/home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/test/performance-test.cpp",
+  "output": "CMakeFiles/tests.dir/test/performance-test.cpp.o"
+},
+{
+  "directory": "/home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/build",
+  "command": "/sbin/c++  -I/home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/src -I/home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/test -isystem /home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wno-sign-compare -Wold-style-cast -Wextra-semi -Woverloaded-virtual -Wzero-as-null-pointer-constant -Wpointer-arith -Wvla -Wshadow=compatible-local -Wduplicated-branches -Wduplicated-cond -Wnull-dereference -Walloc-zero -Wno-array-bounds -Wno-maybe-uninitialized -o CMakeFiles/tests.dir/test/small-object-test.cpp.o -c /home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/test/small-object-test.cpp",
+  "file": "/home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/test/small-object-test.cpp",
+  "output": "CMakeFiles/tests.dir/test/small-object-test.cpp.o"
+},
+{
+  "directory": "/home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/build",
+  "command": "/sbin/c++  -I/home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/src -I/home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/test -isystem /home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wno-sign-compare -Wold-style-cast -Wextra-semi -Woverloaded-virtual -Wzero-as-null-pointer-constant -Wpointer-arith -Wvla -Wshadow=compatible-local -Wduplicated-branches -Wduplicated-cond -Wnull-dereference -Walloc-zero -Wno-array-bounds -Wno-maybe-uninitialized -o CMakeFiles/tests.dir/test/vector-test.cpp.o -c /home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/test/vector-test.cpp",
+  "file": "/home/spyteamalex/Documents/ITMO/ITMO-Code-2-Sem/CPP/socow-vector-spyteamalex/test/vector-test.cpp",
+  "output": "CMakeFiles/tests.dir/test/vector-test.cpp.o"
+}
+]
